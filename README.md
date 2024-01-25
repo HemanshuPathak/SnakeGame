@@ -10,7 +10,6 @@ This is a classic Snake Game developed for Android using the Unity game engine a
 - **Obstacle Challenges:** Navigate through obstacles and challenge yourself to become the ultimate snake master.
 - **Customizable Settings:** Adjust settings such as sound effects, difficulty levels, and more to tailor the game to your preferences.
 
-## Getting Started
 ### Prerequisites
 - Unity Hub
 - Unity 202019.1.6f1 (version used for development)
